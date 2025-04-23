@@ -31,7 +31,6 @@ fetch(url)
         <img
           src="${student.imageUrl}" 
           style="
-          justify: center;
           border-radius: 30px;"
         />
         <figcaption >
