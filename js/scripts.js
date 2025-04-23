@@ -39,7 +39,7 @@ fetch(url)
           ${student.name}
           </h2>
           <p style="line-height: 50px;
-          font-family: 'Clash Display', sans-serif;">${student.favoriteSong} 
+          font-family: 'Clash Display', sans-serif;"> 🎵 ${student.favoriteSong} 
           </br> - ${student.funFact}
           </br> <em>${student.motto}</em> 
           </br> - <b>${student.favoriteSimpsonsCharacter} </b>
