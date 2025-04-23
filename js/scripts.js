@@ -42,7 +42,7 @@ fetch(url)
           </br> - ${student.funFact}
           </br> <em>${student.motto}</em> 
           </br> - <b>${student.favoriteSimpsonsCharacter} </b>
-          </br> - My favorite band is ${student.favoriteBand}
+          </br> - My favorite band/artist: ${student.favoriteBand}
           </br> - My comfort food(s): ${student.favoriteFood}
           </br> - My superpower: ${student.talent}
           </p>
